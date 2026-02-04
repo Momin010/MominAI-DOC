@@ -220,8 +220,4 @@ sequenceDiagram
 
 **GitHub:** https://github.com/Momin010
 
-**License & Notes:** Draft white paper—sensitive content should be handled under NDA during early engagements.
 
----
-
-> Want more diagrams or a version tailored to a specific audience (security, product, or investor decks)? Tell me which audience and I’ll produce customized visuals and a slide-ready Markdown export. ✅
